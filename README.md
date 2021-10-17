@@ -1,3 +1,3 @@
 # python-scripts
 
-This  repository is for collection of useful python scripts.
+This repository is a collection of useful python scripts.
